@@ -22,6 +22,7 @@ business or developer requirements
 ### SysOperation Code Samples
 
 The SysOperation Framework consists of 3 major component classes, which can be used to run periodic batch functionality in the background.
+Create the following classes
 
 </br> The **Controller** class, which is used to parse arguments, init data contract parameter values, and initiate functionality
 ```
