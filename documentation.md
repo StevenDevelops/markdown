@@ -5,6 +5,8 @@ Tutorial of how to create and schedule a Batch Job in Dynamics
 For more in-depth technical information on SysOperation framework service classes
 [see this article](https://supremexpp.wordpress.com/2018/07/25/sysoperation-framework-part-1/)
 
+### Prerequisites
+This tutorial assumes you have created your Dynamics VM in LCS, and are able to build and run Dynamics projects using such VM with Visual Studio
 
 ### Problem Summary
 
