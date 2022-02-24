@@ -112,7 +112,11 @@ so convoluted `if` or `switch` statements must be done to maintain different ver
 Once we have implemented the code samples above, we can schedule, run, and debug your Batch Job with the following video
 guides
 
+part 1 - create a batch job and batch task
 
+part 2 - Set a reccurrence, schedule, and time for you job. Also change `withhold` -> `waiting` status to schedule your batch job
+
+part 3 - debugging your batch job
 
 ## Sources
 
