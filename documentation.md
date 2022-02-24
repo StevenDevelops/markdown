@@ -113,10 +113,14 @@ Once we have implemented the code samples above, we can schedule, run, and debug
 guides
 
 part 1 - create a batch job and batch task
+https://user-images.githubusercontent.com/85751035/155432290-28cfc533-ef3c-4e2a-a392-45b23a694a72.mp4
 
 part 2 - Set a reccurrence, schedule, and time for you job. Also change `withhold` -> `waiting` status to schedule your batch job
+https://user-images.githubusercontent.com/85751035/155432330-fb879bad-c729-41bd-9979-70334e96b4f6.mp4
 
 part 3 - debugging your batch job
+https://user-images.githubusercontent.com/85751035/155432468-a9e0dc43-bad0-48e4-b391-fd1c72d1ade1.mp4
+
 
 ## Sources
 
